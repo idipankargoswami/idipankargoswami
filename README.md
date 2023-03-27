@@ -23,7 +23,7 @@
 
 
 <p><img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"
-        alt="" width="55%" /></p>
+        alt="" width="45%" /></p>
 
 # 💫 About Me:
 
