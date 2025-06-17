@@ -1,7 +1,6 @@
 <!----------------------------------- Banner Section ------------------------------------>
 
-[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://idipankargoswami.github.io)
-
+[![MasterHead](https://camo.githubusercontent.com/06ed4c34761d1f1537ebc1198901bdd890184375a751313bb6721caf2c1d8c2e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313335382f312a2d6e744c33447376632d644a35634c475274537545772e676966)
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
     Hi
