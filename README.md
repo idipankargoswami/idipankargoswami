@@ -1,6 +1,6 @@
 <!----------------------------------- Banner Section ------------------------------------>
 
-[![MasterHead](https://camo.githubusercontent.com/06ed4c34761d1f1537ebc1198901bdd890184375a751313bb6721caf2c1d8c2e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313335382f312a2d6e744c33447376632d644a35634c475274537545772e676966)
+![MasterHead](https://camo.githubusercontent.com/06ed4c34761d1f1537ebc1198901bdd890184375a751313bb6721caf2c1d8c2e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313335382f312a2d6e744c33447376632d644a35634c475274537545772e676966)
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
     Hi
@@ -31,7 +31,7 @@
 <br>📄 Check out my [Resume]()<br>
 <br>💻 Know more about me [Portfilio]()<br>
 <br>💻 All of my projects are available at My [Github Repositories]()<br>
-<br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
+<br>💬 Ask me about HTML, CSS, React, JavaScript<br>
 <br>📫 How to reach me dipankargoswami@gmail.com<br>
 
 <!-- Connect with me -->
